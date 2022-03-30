@@ -185,3 +185,5 @@ Para demonstrar tarefas que foram ou não cumpridas, basta utilizar os caractere
 * [x] Estudar Markdown
 * [ ] Estudar React
 
+# Créditos
+Todo o conteúdo foi extraido do canal [Traversy Media](https://www.youtube.com/watch?v=HUBNt18RFbo).
