@@ -88,7 +88,8 @@ Para fazer uso de tabelas basta utilizar a seguinte estrutura <br>
 | Douglas Cunha  | exemplo@gmail.com           |
 | João Guilherme | exemplo@hotmail.com         |
 ```
-e o resultado será o seguinte:
+
+## E o resultado será o seguinte:
 | Nome           | Email                       |
 | --------       | --------                    |
 | Douglas Cunha  | exemplo@gmail.com           |
